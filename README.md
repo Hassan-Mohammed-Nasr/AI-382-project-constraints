@@ -6,7 +6,7 @@
 # There are two types of files
 1- constraint files
 
-2- optimal solution (for correcting yourself not for copying it)
+2- optimal solution named optiml for {filename} (for correcting yourself not for copying it)
 
 # Example of the constraint file 
 'given_problem.txt' is the same problem given in the project guidline to solve it by hand
