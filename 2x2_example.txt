@@ -1,0 +1,5 @@
+Number of ports and hotels respectively: 2,2
+Supply of ports: 30,20
+demand of hotels: 35,15
+Cost from port 1 and 2 to Hotel 1 respectively: 40,35
+Cost from port 1 and 2 to hotel 2 respectively: 30,50
