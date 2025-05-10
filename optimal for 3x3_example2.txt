@@ -9,4 +9,4 @@ p3 → h2 = 0
 p3 → h3 = 5
 
 
-Total Cost = 1200 SAR
+Total Cost = 1350 SAR
