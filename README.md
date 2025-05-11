@@ -19,6 +19,6 @@ Supply of ports: 60,40                                   ------> this indicate t
 
 demand of hotels: 80,40                                 ------> this indicate that hotel 1 can accept no more than 80 and hotel 2 no more than 40
 
-Cost from port 1 and 2 to Hotel 1 respectively: 100,80      ------> this indicate that the cost of going from port 1 to hotel 1 is 100 and from port 2 to hotel 1 is 80
+Cost from port 1 and 2 to Hotel 1 respectively: 100,90      ------> this indicate that the cost of going from port 1 to hotel 1 is 100 and from port 2 to hotel 1 is 80
 
-Cost from port 1 and 2 to hotel 2 respectively: 90,120      -------> this indicate that the cost of going from port 1 to hotel 2 is 90 and from port 2 to hotel 2 is 120
+Cost from port 1 and 2 to hotel 2 respectively: 80,120      -------> this indicate that the cost of going from port 1 to hotel 2 is 90 and from port 2 to hotel 2 is 120
